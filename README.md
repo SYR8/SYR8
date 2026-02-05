@@ -10,6 +10,8 @@
 
 [![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/saecdt/readme-quotes)
 
+![trophy](https://github-profile-trophy.vercel.app/?username=SYR8)
+
 ---
 
 ## What I build
