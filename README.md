@@ -3,15 +3,18 @@
 17 y/o syrian IT student near Frankfurt, Germany 🇩🇪🇸🇾. Building game development projects, n8n automations, and self-hosted VPS infra.
 
 ![Cyberpunk coder](https://i.imgur.com/sVNRX0i.gif)
+
 ---
 
 ## 📊 Stats
 
-[![SYR8's GitHub stats](https://github-readme-stats.vercel.app/api?username=SYR8&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
 
-[![Streak stats](https://streak-stats.demolab.com/?user=SYR8&theme=radical)](https://git.io/streak-stats)
+![SYR8's GitHub stats](https://github-readme-stats.vercel.app/api?username=SYR8&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SYR8&layout=compact&theme=radical)
+![Streak stats](https://streak-stats.demolab.com/?user=SYR8)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SYR8&layout=compact&theme=radical&hide_border=true&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 ---
 
