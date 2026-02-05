@@ -7,9 +7,9 @@
 
 ## 📊 Stats
 
-[![SYR8's GitHub stats](https://github-readme-stats.vercel.app/api?username=SYR8&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&hide=issues,prs)](https://github.com/anuraghazra/github-readme-stats)
+[![SYR8's GitHub stats](https://github-readme-stats.vercel.app/api?username=SYR8&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Streak stats](https://streak-stats.demolab.com/?user=SYR8&theme=radical&hide_border=true)](https://git.io/streak-stats)
+[![Streak stats](https://streak-stats.demolab.com/?user=SYR8&theme=radical)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SYR8&layout=compact&theme=radical&hide_border=true&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats)
 
