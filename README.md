@@ -2,17 +2,17 @@
 
 17 y/o syrian IT student near Frankfurt, Germany 🇩🇪🇸🇾. Building game development projects, n8n automations, and self-hosted VPS infra.
 
-<img src="https://64.media.tumblr.com/4f6e8e5a3b5d5a5b5f5e5f5e5f5e5f5e/tumblr_pn0k5k5J5J5J5J5J5J5J5J5J5J5J5J5J5J.png" alt="Cyberpunk coder" width="500"/>
+<img src="[https://64.media.tumblr.com/4f6e8e5a3b5d5a5b5f5e5f5e5f5e5f5e/tumblr_pn0k5k5J5J5J5J5J5J5J5J5J5J5J5J5J5J.png](https://happy05dz.tumblr.com/post/164289564000)" alt="Cyberpunk coder" width="500"/>
 
 ---
 
 ## 📊 Stats
 
-[![SYR8's GitHub stats](https://github-readme-stats.vercel.app/api?username=SYR8&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![SYR8's GitHub stats](https://github-readme-stats.vercel.app/api?username=SYR8&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&hide=issues,prs)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Streak stats](https://streak-stats.demolab.com/?user=SYR8&theme=radical)](https://git.io/streak-stats)
+[![Streak stats](https://streak-stats.demolab.com/?user=SYR8&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SYR8&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SYR8&layout=compact&theme=radical&hide_border=true&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
