@@ -2,6 +2,8 @@
 
 17 y/o syrian IT student near Frankfurt, Germany 🇩🇪🇸🇾. Building game development projects, n8n automations, and self-hosted VPS infra.
 
+<img src="https://64.media.tumblr.com/4f6e8e5a3b5d5a5b5f5e5f5e5f5e5f5e/tumblr_pn0k5k5J5J5J5J5J5J5J5J5J5J5J5J5J5J.png" alt="Cyberpunk coder" width="500"/>
+
 ---
 
 ## 📊 Stats
