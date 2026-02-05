@@ -1,6 +1,6 @@
 # Hey, I'm Mo 
 
-17 y/o IT student near Frankfurt, Germany 🇩🇪. Building game development projects, n8n automations, and self-hosted VPS infra.
+17 y/o syrian IT student near Frankfurt, Germany 🇩🇪🇸🇾. Building game development projects, n8n automations, and self-hosted VPS infra.
 
 ---
 
@@ -27,7 +27,7 @@
 
 | Category | Tech |
 |----------|------|
-| Languages | Lua (game scripting), C#, Python (beginner) |
+| Languages | Lua (game scripting), C#, JavaScript (beginner) |
 | Platforms | Game engines, Ubuntu VPS, Docker |
 | Tools | n8n, SSH/PuTTY, GitHub, Arduino |
 
@@ -37,13 +37,13 @@
 
 - 🎓 Finishing FOS Informationstechnik → IT/automation engineering degree.
 - 🧩 Game backends: queues, retries, better security for server-to-server.
-- 🌍 Long-term: IT career, maybe UAE/Saudi for business opportunities.
+- 🌍 Long-term: IT career, maybe UAE for business opportunities.
 
 ---
 
 ## When I'm not coding
 
-- 😺 Cat dad to kittens (they love keyboards).
+- 😺 Cat owner (they love keyboards).
 - ☕ Experimenting with hot chocolate, spicy drinks, random mixes.
 - 🌙 Late-night debugging sessions.
 
