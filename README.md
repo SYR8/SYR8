@@ -6,10 +6,6 @@
 
 ---
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=SYR8.SYR8)](https://github.com/SYR8
-
----
-
 ## What I build
 
 - 🕹 **Game development** – server-side scripting, reward systems, API integrations.
