@@ -8,11 +8,7 @@
 
 ## 📊 Stats
 
-<div align="center">
-![SYR8's GitHub stats](https://github-readme-stats.vercel.app/api?username=SYR8&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SYR8&layout=compact&theme=radical)  
-![Streak stats](https://github-readme-streak-stats-eight.vercel.app?user=SYR8)
-</div>
+[![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/saecdt/readme-quotes)
 
 ---
 
