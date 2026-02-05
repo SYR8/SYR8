@@ -6,14 +6,6 @@
 
 ---
 
-## 📊 Stats
-
-[![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/saecdt/readme-quotes)
-
-![trophy](https://github-profile-trophy.vercel.app/?username=SYR8)
-
----
-
 ## What I build
 
 - 🕹 **Game development** – server-side scripting, reward systems, API integrations.
@@ -54,3 +46,6 @@
 💬 Open to chat about game integrations, n8n workflows, VPS homelabs, or beginner cybersecurity.
 
 📩 DMs open for tips on automation engineering or German IT uni programs.
+
+---
+[![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/saecdt/readme-quotes)
