@@ -9,11 +9,9 @@
 ## 📊 Stats
 
 <div align="center">
-
 ![SYR8's GitHub stats](https://github-readme-stats.vercel.app/api?username=SYR8&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SYR8&layout=compact&theme=radical)
-![Streak stats](https://streak-stats.demolab.com/?user=SYR8)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SYR8&layout=compact&theme=radical)  
+![Streak stats](https://github-readme-streak-stats-eight.vercel.app?user=SYR8)
 </div>
 
 ---
