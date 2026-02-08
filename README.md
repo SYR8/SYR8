@@ -28,7 +28,7 @@
 ## Current focus
 
 - 🎓 Finishing FOS Informationstechnik → IT/automation engineering degree.
-- 🧩 Game backends: queues, retries, better security for server-to-server.
+- 🧩 Backends: queues, retries, better security for server-to-server.
 - 🌍 Long-term: IT career, maybe UAE for business opportunities.
 
 ---
